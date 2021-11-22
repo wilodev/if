@@ -1,0 +1,19 @@
+{
+  "menu": [
+    {
+      "id": "home-menu",
+      "title": "Inicio",
+      "url": "/"
+    },
+    {
+      "id": "about-us-menu",
+      "title": "Quienes Somos",
+      "url": "/about-us"
+    },
+    {
+      "id": "contact-menu",
+      "title": "Contactanos",
+      "url": "/contact"
+    }
+  ]
+}

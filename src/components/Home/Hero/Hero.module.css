@@ -1,0 +1,4 @@
+.containerHero {
+  @apply container mx-auto px-4 w-full min-w-full;
+  background-image: url("../../../../public/images/5.jpg");
+}

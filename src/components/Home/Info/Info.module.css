@@ -1,0 +1,4 @@
+.containerInfo {
+  @apply pb-10 bg-transparent;
+  background-image: url("../../../../public/images/2.jpg");
+}
