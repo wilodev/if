@@ -25,4 +25,4 @@ const Home: NextPage = () => {
   );
 };
 
-export { Home };
+export default Home;
